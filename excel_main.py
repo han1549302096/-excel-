@@ -1,3 +1,6 @@
+# 作者：han1549302096
+#简介：生成一个周日和夜班的轮值表
+
 import calendar
 import tkinter as tk
 import datetime
